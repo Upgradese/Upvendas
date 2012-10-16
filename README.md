@@ -1,4 +1,4 @@
 Upvendas
 ========
 
-Sistema de auxilio ao vendedor
+Sistema de auxilio ao vendedor, para maximizar vendas
